@@ -11,13 +11,13 @@ export const SITE_DEFAULT_OG_IMAGE = "/assets/og-image.png"
 // The path should match the folder name in src/content/docs/
 export const SIDEBAR_ITEMS = {
   "Get Started": [
-    "/docs/get-started/introduction",
-    "/docs/get-started/installation",
+    "/docs/get-started/introduction/",
+    "/docs/get-started/installation/",
   ],
   "Tutorials": [
-    "/docs/tutorials/build-x",
+    "/docs/tutorials/build-x/",
   ],
   "Guides": [
-    "/docs/guides/migrate-from-z",
+    "/docs/guides/migrate-from-z/",
   ]
 }

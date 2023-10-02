@@ -2,6 +2,8 @@
   <code>npx degit TheOtterlord/manual</code>
 </h3>
 
+> This repo is no longer actively maintained
+
 <br/>
 
 <div align=center>
